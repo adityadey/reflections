@@ -1,0 +1,4 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+A) A .git file is created in the directory after git init is used. We need it for storing the commits that happen to a particular file.
+
+2) 
