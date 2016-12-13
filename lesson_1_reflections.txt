@@ -1,0 +1,21 @@
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A) The codes written in both of the files can be easily compared with finding the errors and changes that have been made to the file. Also errors can be corrected easily by reffering to the previous version of the same line.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A) By comparing the versions of the same program, it will be easier in debugging. Also more and more improvements to the the program can be brought by introducing or reverting back to a particular feature by version control.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A) Pros: Manual saving allows the flexibility to the user to save whenever a particular bug is fixed. Also whenever a particular significant change is made to the file, it can be saved accordingly without cluttering in the commits.
+Cons: If the user forgets to save the commits at regular intervals or after significant changes, it will be a great mess to review te lines of code later on.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A) Because change in one file of a particular commit could be related to other files and might bring in changes to other files too.
+
+5) How can you use the commands git log and git diff to view the history of files?
+A) Git log can be used to have a look at all the changes that have been to a particular file. Git diff can be use to compare two commits of a file to see the changes made to it.
+
+6) How might using version control make you more confident to make changes that could break something?
+A) I can revert back to any commit whenever I want if anything breaks or any bug arises.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+A) For using the version control feature for all the software developing work.
