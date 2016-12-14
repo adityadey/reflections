@@ -11,3 +11,10 @@ A) Forks are the cloning of repositories on github.
 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 A) The benefit is that even when we are offline, we can update and make changes to the file and update them back to remote server once we go online.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A) It would be harder to see the changes if the codes are collaborated without Git or GitHub.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A) Whenever I want to experiment a new feature withiut directly affecting the master branch. It doesnt affect the workflow of the stable version of the software which is available to public inspite of us working on a side version or a new feature.
+
